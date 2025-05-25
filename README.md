@@ -17,25 +17,6 @@ ChapterList/
 └── backend/   - Django REST API
 ```
 
-## 💻 Tech Stack
-
-### Frontend
-- React
-- Vite
-- CSS
-- Axios
-
-### Backend
-- Python
-- Django REST Framework
-- PostgreSQL (Production)
-- SQLite (Development)
-
-### Infrastructure
-- AWS Deployment
-- Environment Variables
-- Git/GitHub
-
 ## 👥 Team & Responsibilities
 
 ### Frontend Team
@@ -58,10 +39,12 @@ ChapterList/
   - Deployment Management
   - CI/CD Setup
 
-## 📂 Repositories
+## 📂 Project Resources
 
-- [Frontend Repository](https://github.com/zackaryoconnor/Front-End)
-- [Backend Repository](https://github.com/ajungers-ga/unit-4-collaboration-project-BackEnd)
+For detailed information about our project:
+
+- [Frontend Repository](https://github.com/zackaryoconnor/Front-End) - Contains React implementation details, tech stack, and setup guide
+- [Backend Repository](https://github.com/ajungers-ga/unit-4-collaboration-project-BackEnd) - Contains API documentation, database schema, and deployment guide
 
 ## ✨ Key Features
 
@@ -73,20 +56,6 @@ ChapterList/
 - Responsive design
 - RESTful API architecture
 
-## 🛠 Project Setup
-
-Please refer to the individual repository READMEs for detailed setup instructions:
-- [Frontend Setup Guide](https://github.com/zackaryoconnor/Front-End/blob/main/README.md)
-- [Backend Setup Guide](https://github.com/ajungers-ga/unit-4-collaboration-project-BackEnd/blob/main/README.md)
-
-## 📚 Learning Outcomes
-
-- Team collaboration using Git & GitHub
-- Full-stack application deployment
-- AWS cloud infrastructure
-- API design and implementation
-- React component architecture
-- Database management
 
 ## 🙏 Acknowledgments
 
