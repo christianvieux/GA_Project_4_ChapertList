@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ajungers-ga/unit-4-collaboration-project-BackEnd.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/zackaryoconnor/Reading-Tracker-Front-End.git
