@@ -2,9 +2,9 @@
 
 A collaborative full-stack application built by a team of 4 developers during our General Assembly Software Engineering bootcamp. ChapterList allows users to discover, track, and review their favorite reading materials.
 
-## 🔗 Live Demo
+## 🌐 Live App
 
-Visit our app: [ChapterList](http://100.24.54.166:5173/)
+Visit the live application [here.](http://44.203.74.69:3004/home)
 
 ## 🚀 Project Overview
 
