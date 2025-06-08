@@ -4,7 +4,7 @@ A collaborative full-stack application built by a team of 4 developers during ou
 
 ## 🌐 Live App
 
-Visit the live application [here.](http://44.203.74.69:3004/home)
+Visit the live application [here.](http://44.203.74.69:3004)
 
 ## 🚀 Project Overview
 
