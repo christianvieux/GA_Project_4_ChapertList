@@ -60,6 +60,3 @@ For detailed information about our project:
 ## 🙏 Acknowledgments
 
 Special thanks to our General Assembly instructors for their guidance and support throughout this project.
-
----
-Built with ❤️ by the ChapterList Team
