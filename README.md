@@ -8,8 +8,8 @@ Visit the live application [here.](http://54.165.74.209:3004)
    git clone --recursive https://github.com/christianvieux/GA_Project_4_ChapertList.git
    ```
 2. Navigate to each repository and follow their individual setup instructions:
-   - Go to the frontend folder and follow the README setup steps
-   - Go to the backend folder and follow the README setup steps
+   - Go to the [frontend folder](https://github.com/zackaryoconnor/Front-End) and follow the README setup steps
+   - Go to the [backend folder](https://github.com/ajungers-ga/unit-4-collaboration-project-BackEnd) and follow the README setup steps
 ## 👥 Team & Responsibilities
 ### Frontend Team
 - [Diana Wilson](https://github.com/DianaWilson1)
