@@ -1,7 +1,7 @@
 # 🚀 ChapterList - Full Stack Reading Materials App
 A collaborative full-stack application built by a team of 4 developers during our General Assembly Software Engineering bootcamp. ChapterList allows users to discover, track, and review their favorite reading materials. This project demonstrates full-stack development capabilities through a microservices architecture, with separate frontend and backend repositories working in harmony.
 ## 🌐 Live App
-Visit the live application [here.](http://54.165.74.209:3004)
+Visit the live application [here.](http://44.215.35.137:3004/)
 ## 🛠 Setup Instructions
 1. Clone this monorepo with all submodules:
    ```bash
